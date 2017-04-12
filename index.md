@@ -1,5 +1,3 @@
-# Enrique Lozano
-
 ## Repositories
 
 ### [eelozano.github.io](https://github.com/eelozano/eelozano.github.io)
